@@ -3,3 +3,4 @@ ver 2.0
 Status - Revised
 Git Status - SSH Key paired
 Push - 1
+pull - 1
